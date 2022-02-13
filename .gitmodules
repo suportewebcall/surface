@@ -1,3 +1,3 @@
 [submodule "submarine"]
 	path = submarine
-	url = https://github.com/suportewebcall/submarine.git
+	url = ./submarine
