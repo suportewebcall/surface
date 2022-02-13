@@ -1,5 +1,7 @@
+# only root
+
 [submodule "submarine"]
 	path = submarine
 	url = ./submarine
 #	url = https://github.com/suportewebcall/submarine.git
-#
+
