@@ -1,5 +1,5 @@
 # only root
-
+# other user
 [submodule "submarine"]
 	path = submarine
 	url = ./submarine
