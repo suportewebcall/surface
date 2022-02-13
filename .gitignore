@@ -1,2 +1,4 @@
-*.log
+/.gitignore
+/.gitmodules
+/*.log
 *0?.php
