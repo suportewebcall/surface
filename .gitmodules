@@ -2,6 +2,6 @@
 # other user
 [submodule "submarine"]
 	path = submarine
-	url = ./submarine
-#	url = https://github.com/suportewebcall/submarine.#git
+#	url = ./submarine
+	url = https://github.com/suportewebcall/submarine.#git
 
