@@ -1,3 +1,4 @@
 [submodule "submarine"]
 	path = submarine
 	url = ./submarine
+#	url_old = https://github.com/suportewebcall/submarine.git
